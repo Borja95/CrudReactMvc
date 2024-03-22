@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "IkbGPHezrpfYHAfYsJ2MZbeSkdYziS335yaqo63w33s=",
+  "Source": "CRUDReactMVC.Server",
+  "BasePath": "_content/CRUDReactMVC.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\crudreactmvc.client.esproj",
+      "Version": 2,
+      "Source": "crudreactmvc.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

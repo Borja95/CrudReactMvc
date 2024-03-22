@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.client\\src\\components\\tablacontacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|solutionrelative:crudreactmvc.client\\src\\components\\tablacontacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.client\\src\\components\\modalcontacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|solutionrelative:crudreactmvc.client\\src\\components\\modalcontacto.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|solutionrelative:crudreactmvc.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|solutionrelative:crudreactmvc.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|solutionrelative:crudreactmvc.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.server\\controllers\\contactocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|solutionrelative:crudreactmvc.server\\controllers\\contactocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|solutionrelative:crudreactmvc.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|solutionrelative:crudreactmvc.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|solutionrelative:crudreactmvc.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.client\\crudreactmvc.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{556B7175-2DAE-4FE4-9BB9-929D36E329B3}|crudreactmvc.client\\crudreactmvc.client.esproj|solutionrelative:crudreactmvc.client\\crudreactmvc.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|solutionrelative:crudreactmvc.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.server\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|solutionrelative:crudreactmvc.server\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.server\\crudreactmvc.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|solutionrelative:crudreactmvc.server\\crudreactmvc.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|c:\\users\\borja\\documents\\cursos\\asp.net core ieca\\crudreactmvc\\crudreactmvc.server\\models\\crudreactmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA55E22D-1721-4530-8FFA-E5E68F5CE49F}|CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj|solutionrelative:crudreactmvc.server\\models\\crudreactmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\src\\index.css",
+              "RelativeDocumentMoniker": "crudreactmvc.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\src\\index.css",
+              "RelativeToolTip": "crudreactmvc.client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-16T02:56:41.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModalContacto.jsx",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\src\\components\\ModalContacto.jsx",
+              "RelativeDocumentMoniker": "crudreactmvc.client\\src\\components\\ModalContacto.jsx",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\src\\components\\ModalContacto.jsx",
+              "RelativeToolTip": "crudreactmvc.client\\src\\components\\ModalContacto.jsx",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-09T17:47:41.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "crudreactmvc.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\src\\App.jsx",
+              "RelativeToolTip": "crudreactmvc.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-09T17:00:25.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactoController.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\Controllers\\ContactoController.cs",
+              "RelativeDocumentMoniker": "CRUDReactMVC.Server\\Controllers\\ContactoController.cs",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\Controllers\\ContactoController.cs",
+              "RelativeToolTip": "CRUDReactMVC.Server\\Controllers\\ContactoController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:34:31.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TablaContacto.jsx",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\src\\components\\TablaContacto.jsx",
+              "RelativeDocumentMoniker": "crudreactmvc.client\\src\\components\\TablaContacto.jsx",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\src\\components\\TablaContacto.jsx",
+              "RelativeToolTip": "crudreactmvc.client\\src\\components\\TablaContacto.jsx",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-09T17:20:38.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\vite.config.js",
+              "RelativeDocumentMoniker": "crudreactmvc.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\vite.config.js",
+              "RelativeToolTip": "crudreactmvc.client\\vite.config.js",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-09T17:11:28.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDReactMVC.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\Program.cs",
+              "RelativeToolTip": "CRUDReactMVC.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:30:34.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\package.json",
+              "RelativeDocumentMoniker": "crudreactmvc.client\\package.json",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\package.json",
+              "RelativeToolTip": "crudreactmvc.client\\package.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T16:58:35.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "crudreactmvc.client.esproj",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\crudreactmvc.client.esproj",
+              "RelativeDocumentMoniker": "crudreactmvc.client\\crudreactmvc.client.esproj",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\crudreactmvc.client.esproj",
+              "RelativeToolTip": "crudreactmvc.client\\crudreactmvc.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-09T16:56:13.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "crudreactmvc.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\crudreactmvc.client\\src\\main.jsx",
+              "RelativeToolTip": "crudreactmvc.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-09T17:00:20.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDReactMVC.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\appsettings.json",
+              "RelativeToolTip": "CRUDReactMVC.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-09T17:14:31.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "CRUDReactMVC.Server\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\Models\\Contacto.cs",
+              "RelativeToolTip": "CRUDReactMVC.Server\\Models\\Contacto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:29:42.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CrudreactMvcContext.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\Models\\CrudreactMvcContext.cs",
+              "RelativeDocumentMoniker": "CRUDReactMVC.Server\\Models\\CrudreactMvcContext.cs",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\Models\\CrudreactMvcContext.cs",
+              "RelativeToolTip": "CRUDReactMVC.Server\\Models\\CrudreactMvcContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:28:48.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CRUDReactMVC.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj",
+              "RelativeDocumentMoniker": "CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj",
+              "ToolTip": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj",
+              "RelativeToolTip": "CRUDReactMVC.Server\\CRUDReactMVC.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T16:21:03.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

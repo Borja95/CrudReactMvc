@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Borja\\Documents\\Cursos\\ASP.NET Core IECA\\CRUDReactMVC\\CRUDReactMVC.Server\\..\\crudreactmvc.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
